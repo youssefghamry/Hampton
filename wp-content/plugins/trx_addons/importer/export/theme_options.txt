@@ -1,0 +1,60 @@
+a:69:{s:17:"trx_addons_action";s:0:"";s:27:"trx_addons_category_icon_12";s:0:"";s:27:"trx_addons_category_icon_16";s:0:"";s:27:"trx_addons_category_icon_21";s:0:"";s:26:"trx_addons_category_icon_6";s:0:"";s:28:"trx_addons_category_image_12";s:79:"https://hampton.axiomthemes.com/wp-content/uploads/2016/09/image-11-300x200.jpg";s:28:"trx_addons_category_image_16";s:79:"https://hampton.axiomthemes.com/wp-content/uploads/2016/12/image-11-300x200.jpg";s:28:"trx_addons_category_image_21";s:79:"https://hampton.axiomthemes.com/wp-content/uploads/2016/12/image-14-300x200.jpg";s:27:"trx_addons_category_image_6";s:79:"https://hampton.axiomthemes.com/wp-content/uploads/2016/12/image-13-300x200.jpg";s:25:"trx_addons_just_activated";s:2:"no";s:18:"trx_addons_message";s:0:"";s:18:"trx_addons_options";a:32:{s:10:"debug_mode";i:0;s:28:"disable_widgets_block_editor";i:0;s:12:"retina_ready";s:1:"1";s:14:"images_quality";s:3:"100";s:10:"menu_cache";i:0;s:14:"page_preloader";s:4:"none";s:20:"page_preloader_image";s:0:"";s:23:"page_preloader_bg_color";s:7:"#ffffff";s:13:"scroll_to_top";s:1:"1";s:12:"popup_engine";s:8:"magnific";s:14:"login_via_ajax";s:1:"1";s:17:"login_via_socials";s:0:"";s:29:"notify_about_new_registration";s:2:"no";s:14:"services_style";s:9:"default_2";s:10:"team_style";s:9:"default_3";s:15:"api_google_load";s:1:"1";s:10:"api_google";s:0:"";s:15:"socials_twitter";s:31:"https://twitter.com/ThemesAxiom";s:16:"socials_facebook";s:53:"https://www.facebook.com/AxiomThemes-505060569826537/";s:14:"socials_tumblr";s:0:"";s:17:"socials_instagram";s:39:"https://www.instagram.com/axiom_themes/";s:16:"socials_dribbble";s:0:"";s:13:"share_twitter";s:56:"https://twitter.com/intent/tweet?text={title}&url={link}";s:14:"share_facebook";s:43:"http://www.facebook.com/sharer.php?u={link}";s:12:"share_tumblr";s:60:"http://www.tumblr.com/share?v=3&u={link}&t={title}&s={descr}";s:10:"share_mail";s:27:"mailto:support@exаmple.com";s:16:"scroll_to_anchor";s:1:"1";s:27:"update_location_from_anchor";i:0;s:11:"input_hover";s:7:"default";s:18:"columns_wrap_class";s:0:"";s:24:"columns_wrap_class_fluid";s:0:"";s:12:"column_class";s:0:"";}s:8:"blogname";s:20:"Hampton - Remodeling";s:15:"blogdescription";s:20:"Hampton - Remodeling";s:14:"posts_per_page";s:2:"10";s:13:"show_on_front";s:4:"page";s:13:"page_on_front";s:1:"2";s:14:"page_for_posts";s:3:"463";s:38:"booked_admin_appointment_email_content";s:260:"You have a new appointment request! Here's the appointment information:
+
+Customer: %name%
+Date: %date%
+Time: %time%
+
+Log into your website here: https://hampton.axiomthemes.com/wp-admin/ to approve this appointment.
+
+(Sent via the Premier - Remodeling website)";s:38:"booked_admin_appointment_email_subject";s:35:"You have a new appointment request!";s:39:"booked_admin_cancellation_email_content";s:179:"One of your customers has cancelled their appointment. Here's the appointment information:
+
+Customer: %name%
+Date: %date%
+Time: %time%
+
+(Sent via the Premier - Remodeling website)";s:39:"booked_admin_cancellation_email_subject";s:34:"An appointment has been cancelled.";s:28:"booked_admin_reminder_buffer";s:2:"30";s:27:"booked_admin_reminder_email";s:215:"You have an appointment coming up soon! Here's the appointment information:
+
+<strong>Customer:</strong> %name%
+<strong>Date:</strong> %date%
+<strong>Time:</strong> %time%
+
+(Sent via the Premier - Remodeling website)";s:35:"booked_admin_reminder_email_subject";s:33:"An appointment is coming up soon!";s:25:"booked_appointment_buffer";s:1:"0";s:24:"booked_appointment_limit";s:1:"0";s:32:"booked_appointment_redirect_type";s:0:"";s:40:"booked_appointment_success_redirect_page";s:0:"";s:29:"booked_approval_email_content";s:198:"Hey %name%!
+
+The appointment you requested at Premier - Remodeling has been approved! Here's your appointment information:
+
+Date: %date%
+Time: %time%
+
+Sincerely,
+Your friends at Premier - Remodeling";s:29:"booked_approval_email_subject";s:35:"Your appointment has been approved!";s:38:"booked_appt_confirmation_email_content";s:190:"Hey %name%!
+
+This is just an email to confirm your appointment. For reference, here's the appointment information:
+
+Date: %date%
+Time: %time%
+
+Sincerely,
+Your friends at Premier - Remodeling";s:38:"booked_appt_confirmation_email_subject";s:56:"Your appointment confirmation from Premier - Remodeling.";s:19:"booked_booking_type";s:10:"registered";s:19:"booked_button_color";s:7:"#df7a25";s:26:"booked_cancellation_buffer";s:1:"0";s:33:"booked_cancellation_email_content";s:213:"Hey %name%!
+
+The appointment you requested at Premier - Remodeling has been cancelled. For reference, here's the appointment information:
+
+Date: %date%
+Time: %time%
+
+Sincerely,
+Your friends at Premier - Remodeling";s:33:"booked_cancellation_email_subject";s:36:"Your appointment has been cancelled.";s:27:"booked_custom_login_message";s:0:"";s:17:"booked_dark_color";s:7:"#3b120e";s:25:"booked_default_email_user";s:0:"";s:15:"booked_defaults";a:12:{s:3:"Mon";a:11:{s:9:"1000-1100";i:1;s:9:"1110-1210";i:1;s:9:"1220-1320";i:1;s:9:"1330-1430";i:1;s:9:"1440-1540";i:1;s:9:"1550-1650";i:1;s:9:"1700-1800";i:1;s:9:"1810-1910";i:1;s:9:"1920-2020";i:1;s:9:"2030-2130";i:1;s:9:"2140-2240";i:1;}s:11:"Mon-details";a:11:{s:9:"1000-1100";a:1:{s:5:"title";s:0:"";}s:9:"1110-1210";a:1:{s:5:"title";s:0:"";}s:9:"1220-1320";a:1:{s:5:"title";s:0:"";}s:9:"1330-1430";a:1:{s:5:"title";s:0:"";}s:9:"1440-1540";a:1:{s:5:"title";s:0:"";}s:9:"1550-1650";a:1:{s:5:"title";s:0:"";}s:9:"1700-1800";a:1:{s:5:"title";s:0:"";}s:9:"1810-1910";a:1:{s:5:"title";s:0:"";}s:9:"1920-2020";a:1:{s:5:"title";s:0:"";}s:9:"2030-2130";a:1:{s:5:"title";s:0:"";}s:9:"2140-2240";a:1:{s:5:"title";s:0:"";}}s:3:"Tue";a:12:{s:9:"0800-0900";i:1;s:9:"0905-1005";i:1;s:9:"1010-1110";i:1;s:9:"1115-1215";i:1;s:9:"1220-1320";i:1;s:9:"1325-1425";i:1;s:9:"1430-1530";i:1;s:9:"1535-1635";i:1;s:9:"1640-1740";i:1;s:9:"1745-1845";i:1;s:9:"1850-1950";i:1;s:9:"1955-2055";i:1;}s:11:"Tue-details";a:12:{s:9:"0800-0900";a:1:{s:5:"title";s:0:"";}s:9:"0905-1005";a:1:{s:5:"title";s:0:"";}s:9:"1010-1110";a:1:{s:5:"title";s:0:"";}s:9:"1115-1215";a:1:{s:5:"title";s:0:"";}s:9:"1220-1320";a:1:{s:5:"title";s:0:"";}s:9:"1325-1425";a:1:{s:5:"title";s:0:"";}s:9:"1430-1530";a:1:{s:5:"title";s:0:"";}s:9:"1535-1635";a:1:{s:5:"title";s:0:"";}s:9:"1640-1740";a:1:{s:5:"title";s:0:"";}s:9:"1745-1845";a:1:{s:5:"title";s:0:"";}s:9:"1850-1950";a:1:{s:5:"title";s:0:"";}s:9:"1955-2055";a:1:{s:5:"title";s:0:"";}}s:3:"Wed";a:12:{s:9:"1000-1100";i:1;s:9:"1105-1205";i:1;s:9:"1210-1310";i:1;s:9:"1315-1415";i:1;s:9:"1420-1520";i:1;s:9:"1525-1625";i:1;s:9:"1630-1730";i:1;s:9:"1735-1835";i:1;s:9:"1840-1940";i:1;s:9:"1945-2045";i:1;s:9:"2050-2150";i:1;s:9:"2155-2255";i:1;}s:11:"Wed-details";a:12:{s:9:"1000-1100";a:1:{s:5:"title";s:0:"";}s:9:"1105-1205";a:1:{s:5:"title";s:0:"";}s:9:"1210-1310";a:1:{s:5:"title";s:0:"";}s:9:"1315-1415";a:1:{s:5:"title";s:0:"";}s:9:"1420-1520";a:1:{s:5:"title";s:0:"";}s:9:"1525-1625";a:1:{s:5:"title";s:0:"";}s:9:"1630-1730";a:1:{s:5:"title";s:0:"";}s:9:"1735-1835";a:1:{s:5:"title";s:0:"";}s:9:"1840-1940";a:1:{s:5:"title";s:0:"";}s:9:"1945-2045";a:1:{s:5:"title";s:0:"";}s:9:"2050-2150";a:1:{s:5:"title";s:0:"";}s:9:"2155-2255";a:1:{s:5:"title";s:0:"";}}s:3:"Thu";a:12:{s:9:"0800-0900";i:1;s:9:"0910-1010";i:1;s:9:"1020-1120";i:1;s:9:"1130-1230";i:1;s:9:"1240-1340";i:1;s:9:"1350-1450";i:1;s:9:"1500-1600";i:1;s:9:"1610-1710";i:1;s:9:"1720-1820";i:1;s:9:"1830-1930";i:1;s:9:"1940-2040";i:1;s:9:"2050-2150";i:1;}s:11:"Thu-details";a:12:{s:9:"0800-0900";a:1:{s:5:"title";s:0:"";}s:9:"0910-1010";a:1:{s:5:"title";s:0:"";}s:9:"1020-1120";a:1:{s:5:"title";s:0:"";}s:9:"1130-1230";a:1:{s:5:"title";s:0:"";}s:9:"1240-1340";a:1:{s:5:"title";s:0:"";}s:9:"1350-1450";a:1:{s:5:"title";s:0:"";}s:9:"1500-1600";a:1:{s:5:"title";s:0:"";}s:9:"1610-1710";a:1:{s:5:"title";s:0:"";}s:9:"1720-1820";a:1:{s:5:"title";s:0:"";}s:9:"1830-1930";a:1:{s:5:"title";s:0:"";}s:9:"1940-2040";a:1:{s:5:"title";s:0:"";}s:9:"2050-2150";a:1:{s:5:"title";s:0:"";}}s:3:"Fri";a:12:{s:9:"0800-0900";i:1;s:9:"0905-1005";i:1;s:9:"1010-1110";i:1;s:9:"1115-1215";i:1;s:9:"1220-1320";i:1;s:9:"1325-1425";i:1;s:9:"1430-1530";i:1;s:9:"1535-1635";i:1;s:9:"1640-1740";i:1;s:9:"1745-1845";i:1;s:9:"1850-1950";i:1;s:9:"1955-2055";i:1;}s:11:"Fri-details";a:12:{s:9:"0800-0900";a:1:{s:5:"title";s:0:"";}s:9:"0905-1005";a:1:{s:5:"title";s:0:"";}s:9:"1010-1110";a:1:{s:5:"title";s:0:"";}s:9:"1115-1215";a:1:{s:5:"title";s:0:"";}s:9:"1220-1320";a:1:{s:5:"title";s:0:"";}s:9:"1325-1425";a:1:{s:5:"title";s:0:"";}s:9:"1430-1530";a:1:{s:5:"title";s:0:"";}s:9:"1535-1635";a:1:{s:5:"title";s:0:"";}s:9:"1640-1740";a:1:{s:5:"title";s:0:"";}s:9:"1745-1845";a:1:{s:5:"title";s:0:"";}s:9:"1850-1950";a:1:{s:5:"title";s:0:"";}s:9:"1955-2055";a:1:{s:5:"title";s:0:"";}}s:3:"Sat";a:13:{s:9:"0800-0900";i:1;s:9:"0905-1005";i:1;s:9:"1010-1110";i:1;s:9:"1115-1215";i:1;s:9:"1220-1320";i:1;s:9:"1325-1425";i:1;s:9:"1430-1530";i:1;s:9:"1535-1635";i:1;s:9:"1640-1740";i:1;s:9:"1745-1845";i:1;s:9:"1850-1950";i:1;s:9:"1955-2055";i:1;s:9:"2100-2200";i:1;}s:11:"Sat-details";a:13:{s:9:"0800-0900";a:1:{s:5:"title";s:0:"";}s:9:"0905-1005";a:1:{s:5:"title";s:0:"";}s:9:"1010-1110";a:1:{s:5:"title";s:0:"";}s:9:"1115-1215";a:1:{s:5:"title";s:0:"";}s:9:"1220-1320";a:1:{s:5:"title";s:0:"";}s:9:"1325-1425";a:1:{s:5:"title";s:0:"";}s:9:"1430-1530";a:1:{s:5:"title";s:0:"";}s:9:"1535-1635";a:1:{s:5:"title";s:0:"";}s:9:"1640-1740";a:1:{s:5:"title";s:0:"";}s:9:"1745-1845";a:1:{s:5:"title";s:0:"";}s:9:"1850-1950";a:1:{s:5:"title";s:0:"";}s:9:"1955-2055";a:1:{s:5:"title";s:0:"";}s:9:"2100-2200";a:1:{s:5:"title";s:0:"";}}}s:36:"booked_dont_allow_user_cancellations";s:0:"";s:17:"booked_email_logo";s:0:"";s:26:"booked_hide_admin_bar_menu";s:0:"";s:31:"booked_hide_available_timeslots";s:0:"";s:28:"booked_hide_default_calendar";s:0:"";s:21:"booked_hide_end_times";s:0:"";s:23:"booked_hide_google_link";s:0:"";s:33:"booked_hide_unavailable_timeslots";s:0:"";s:20:"booked_hide_weekends";s:0:"";s:18:"booked_light_color";s:7:"#726968";s:26:"booked_login_redirect_page";s:0:"";s:30:"booked_new_appointment_default";s:5:"draft";s:33:"booked_prevent_appointments_after";s:0:"";s:34:"booked_prevent_appointments_before";s:0:"";s:26:"booked_public_appointments";s:0:"";s:26:"booked_redirect_non_admins";s:0:"";s:33:"booked_registration_email_content";s:243:"Hey %name%!
+
+Thanks for registering at Premier - Remodeling. You can now login to manage your account and appointments using the following credentials:
+
+Username: %username%
+Password: %password%
+
+Sincerely,
+Your friends at Premier - Remodeling";s:33:"booked_registration_email_subject";s:26:"Thank you for registering!";s:37:"booked_registration_name_requirements";s:0:"";s:22:"booked_reminder_buffer";s:2:"30";s:21:"booked_reminder_email";s:253:"Just a friendly reminder that you have an appointment coming up soon! Here's the appointment information:
+
+<strong>Calendar:</strong> %calendar%
+<strong>Date:</strong> %date%
+<strong>Time:</strong> %time%
+
+Sincerely,
+Your friends at Premier - Remodeling";s:29:"booked_reminder_email_subject";s:49:"Reminder: You have an appointment coming up soon!";s:34:"booked_require_guest_email_address";s:0:"";s:23:"booked_show_only_titles";s:0:"";s:25:"booked_timeslot_intervals";s:3:"120";s:20:"booked_version_check";s:5:"2.3.5";s:5:"wpcf7";a:2:{s:7:"version";s:5:"5.5.4";s:13:"bulk_validate";a:4:{s:9:"timestamp";i:1643296323;s:7:"version";s:5:"5.5.4";s:11:"count_valid";i:0;s:13:"count_invalid";i:3;}}}
